@@ -1,3 +1,4 @@
+https://github.8080713.xyz/8080713/iptv-api/refs/heads/main/output/result.txt
 http://wx.thego.cn/ak.m3u
 http://aktv.top/live.txt
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
