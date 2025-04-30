@@ -78,7 +78,7 @@ def process_url(url):
 urls = [
     "https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv", # 欧歌
     "https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/live.php", # 我不是摸鱼儿
-    "https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/by/jar/moyuer.php", # 我不是摸鱼儿
+   # "https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/by/jar/moyuer.php",  我不是摸鱼儿 这俩都加密了
     "https://ua.fongmi.eu.org/box.php?url=http://sinopacifichk.com/tv/live",
     "https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather", # yang-1989.eu.org的解码版本
 ]
