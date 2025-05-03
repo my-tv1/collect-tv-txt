@@ -2,7 +2,7 @@ name: 'Daily Job(special)'
 
 on:
   schedule:
-    - cron: '0 23,21,7 * * *'  # UTC+8
+    - cron: '0 21,7 * * *'  # UTC+8
   workflow_dispatch:
     inputs:
       environment:
