@@ -59,10 +59,9 @@ jobs:
           zip -j "${zip_filename}" merged_output.txt others_output.txt
           git add "${zip_filename}"
           git commit -m "Archive zipfile: ${current_datetime}"
-          
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push -f
+
+
+
     
         
